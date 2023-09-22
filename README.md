@@ -175,8 +175,8 @@ Github extends the functionality of markdown tables to provide more alignment an
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)[^1]
+- [^1]:[GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
 - [GFM - Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
-- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)[^2]
+- [^2]:[GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)
 
 
