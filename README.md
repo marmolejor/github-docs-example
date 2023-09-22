@@ -4,7 +4,7 @@
 ## Step 1 - Using Codeblocks.
 
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste, share** code. 
-A good __Cloud engineer__ uses Codeblocks whenever possible.
+A good __Cloud engineer__ uses Codeblocks whenever possible. <sup>[1]</sup>
 
 Because it allows others to copy and paste their code to replicate or reasearch issues.
 
@@ -133,7 +133,7 @@ This is what a screenshot from your computer should look like.
 - To take a screenshot, press and hold these three keys together: Shift, Command, and 3. If you see a thumbnail in the corner of your screen, click it to edit the screenshot. Or wait for the screenshot to save to your desktop.
 
 
-## Step 3 - Use Github Flavoured Markdown Task Lists
+## Step 3 - Use Github Flavoured Markdown Task Lists[<sup>[2]</sup>](#references) 
 
 Github extends Markdown to have a list where you can check off items.[^1]
 
@@ -171,12 +171,11 @@ Github extends the functionality of markdown tables to provide more alignment an
 
 ![Photo of pipe key](assets/pipe.jpg)
 
-## References
+## References <sup>[1]</sup>
 
-- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)<sup>[2]</sup>
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GFM - Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
-
 [^1]:[GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
 [^2]:[GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)
 
