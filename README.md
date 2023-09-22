@@ -135,7 +135,7 @@ This is what a screenshot from your computer should look like.
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
-Github extends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#references)
+Github extends Markdown to have a list where you can check off items.[^1]
 
 - [x] Finish step 1
 - [x] Finish step 2
@@ -164,7 +164,7 @@ You can use the following format to create tables:
 | Cloud | `:cloud:` | ☁️ |
 | Bootcamp | `:basecamp:` | :basecamp: |
 ```
-Github extends the functionality of markdown tables to provide more alignment and table cell formating optioins. [<sup>[2]</sup>](#references)
+Github extends the functionality of markdown tables to provide more alignment and table cell formating optioins.[^2]
 
 - Make note of where the pipe keyboard key is located.
 - It should appear above the return or enter key, but it may vary based on your particular keyboard layout.
@@ -175,8 +175,8 @@ Github extends the functionality of markdown tables to provide more alignment an
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)<sup>[1]</sup>
+- [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)[^1]
 - [GFM - Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
-- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
+- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)[^2]
 
 
