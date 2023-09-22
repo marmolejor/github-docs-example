@@ -67,7 +67,7 @@ end
 - Make note of where the backtick button is located.
 - It should appear above the tab key, but it may vary based on your particular keyboard layout.
 
-<img width="200px" src="https://github.com/marmolejor/github-docs-example/assets/56137995/08448cfc-99ea-4e95-a961-57b233e53173" />
+<img width="600px" src="https://github.com/marmolejor/github-docs-example/assets/56137995/08448cfc-99ea-4e95-a961-57b233e53173" />
 
 - Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -105,6 +105,15 @@ end
 ```
 >Here's an example of using a codeblock for an error that appears in bash.
 
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not to be confused with taking a photo with your phone.
+
+
+
+
 ## Step 3 - Use Github Flavoured Markdown Task Lists
 
 Github extends Markdown to have a list where you can check off items.[<sup>[1]</sup>](#references)
@@ -112,6 +121,8 @@ Github extends Markdown to have a list where you can check off items.[<sup>[1]</
 - [x] Finish step 1
 - [x] Finish step 2
 - [x] Finish step 3
+- [x] Finish step 4
+- [x] Finish step 5
 
 ## Step 4 - Use Emojis (Optional)
 
@@ -136,6 +147,11 @@ You can use the following format to create tables:
 ```
 Github extends the functionality of markdown tables to provide more alignment and table cell formating optioins. [<sup>[2]</sup>](#references)
 
+- Make note of where the pipe keyboard key is located.
+- It should appear above the return or enter key, but it may vary based on your particular keyboard layout.
+
+![Photo of pipe key](assets/pipe.jpg)
+
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
@@ -144,6 +160,4 @@ Github extends the functionality of markdown tables to provide more alignment an
 - [GFM - Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
 - [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
 
-
-![AppleKeyAlW-xlarge](https://github.com/marmolejor/github-docs-example/assets/56137995/c2df1f64-dedd-4498-bd74-dc9e6184cfa5)
 
