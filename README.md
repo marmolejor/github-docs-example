@@ -171,6 +171,8 @@ Github extends the functionality of markdown tables to provide more alignment an
 
 ![Photo of pipe key](assets/pipe.jpg)
 
+[Secret Window Hidden Garden](secret-window-hidden-garden.md)
+
 ## References <sup>[1]</sup>
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)<sup>[2]</sup>
