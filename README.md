@@ -1,5 +1,6 @@
 # Writing Good Documentation
 
+
 ## Step 1 - Using Codeblocks.
 
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste, share** code. 
@@ -105,11 +106,20 @@ end
 ```
 >Here's an example of using a codeblock for an error that appears in bash.
 
+
 ## Step 2 - How to take screenshots
 
 A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
 
-This is not to be confused with taking a photo with your phone.
+This is not to be confused with taking a photo with your phone:
+
+**DON'T DO THIS**
+
+![code with phone](assets/code.jpeg)
+
+This is what a screenshot from your computer should look like.
+
+![code with phone](assets/screenshot.jpeg)
 
 
 
