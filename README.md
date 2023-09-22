@@ -106,6 +106,11 @@ end
 ```
 >Here's an example of using a codeblock for an error that appears in bash.
 
+When you can, always provide a codeblock instead of a screnshot.
+If you need to take a screenshot make sure its not a photo from your phone.
+
+> There are certain cases where its okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen to be able to take screenshots.
+
 
 ## Step 2 - How to take screenshots
 
@@ -119,9 +124,13 @@ This is not to be confused with taking a photo with your phone:
 
 This is what a screenshot from your computer should look like.
 
+**DO THIS INSTEAD**
+
 ![code with phone](assets/screenshot.jpeg)
 
+**To take screnshots with MAC OS do the following:**
 
+- To take a screenshot, press and hold these three keys together: Shift, Command, and 3. If you see a thumbnail in the corner of your screen, click it to edit the screenshot. Or wait for the screenshot to save to your desktop.
 
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
